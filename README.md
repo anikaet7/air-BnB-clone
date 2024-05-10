@@ -1,3 +1,6 @@
+Discover, book, and host accommodations worldwide with our
+ React-powered Airbnb clone.
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
